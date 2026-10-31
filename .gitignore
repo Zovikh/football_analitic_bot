@@ -1,0 +1,17 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+data/*.db
+data/*.csv
+data/hr_results.csv
+*.sqlite
+*.sqlite3
+.idea/
+.vscode/
+google-credentials.json
+.DS_Store
